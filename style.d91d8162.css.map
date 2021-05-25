@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAIA,WACE,kBACF,CAEA,eACE,kBACF,CAEA,WACE,eACF","file":"style.d91d8162.css","sourceRoot":"..\\src","sourcesContent":["/* body {\n  margin: 0;\n} */\n\n.styleBlok {\n  margin-bottom: 20px;\n}\n\n.styleBlok_div {\n  margin-bottom: 10px;\n}\n\n.firstBlok {\n  margin-top: auto;\n}\n"]}
